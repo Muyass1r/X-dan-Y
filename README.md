@@ -1,4 +1,4 @@
-Nama Kelompok : X dan Y
+Nama Kelompok : X dan Y.
 anggota :
 Muyassir Farisi,
 Masjuanda,
